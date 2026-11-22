@@ -1,45 +1,52 @@
-# Final Pool — Task Implementation Status
+# Final Pool — Implemented Tasks (46)
 
-Comprehensive status of every developer's latest tasks (from each person's branch tip) synced to the Notion "Task Status Table" / Task Tracker.
+Synced from Notion Task Status Table (tasks marked `implemented`).
 
-## Status Legend
-- **implemented** — development meets requirements
-- **implementing** — still in progress
-
-## Per-Developer Task Status
-
-| Developer | Branch | Task | Status |
-|---|---|---|---|
-| fan-dev | fan-dev | loyalty-program | implementing |
-| fan-dev | fan-dev | discount-calculator | implementing |
-| gyy | gyy | tag-manager | implementing |
-| gyy | gyy | sitemap-generator | implementing |
-| gyy | gyy | robots-handler | implementing |
-| haoze | haoze | media-organizer | implementing |
-| haoze | haoze | streaming-service | implementing |
-| jl_dev | jl_dev | customer-feedback-processor | implementing |
-| jl_dev | jl_dev | inventory-management | implementing |
-| junteng_dev | junteng_dev | customer-portal | implementing |
-| junteng_dev | junteng_dev | help-desk | implementing |
-| junxian_dev | junxian_dev | currency-converter | implementing |
-| junxian_dev | junxian_dev | social-connector | implementing |
-| lueyang-dev | lueyang-dev | territory-manager | implementing |
-| lueyang-dev | lueyang-dev | client-portal | implementing |
-| lv | lv | survey-builder | implementing |
-| lv | lv | analytics-dashboard | implementing |
-| lv | lv | insights-engine | implementing |
-| ruige | ruige | web-crawler | implementing |
-| ruige | ruige | log-analyzer | implementing |
-| wenshuo-dev | wenshuo-dev | cache-optimizer | implementing |
-| wenshuo-dev | wenshuo-dev | scheduler | implementing |
-| xiaochen_dev | xiaochen_dev | status-checker | implementing |
-| xiaochen_dev | xiaochen_dev | health-monitor | implementing |
-| yuxuan-dev | yuxuan-dev | sync-service | implementing |
-| yuzhen-dev | yuzhen-dev | audit-logger | implementing |
-| yuzhen-dev | yuzhen-dev | resource-monitor | implementing |
-| zhaochen | zhaochen | certificate-manager | implementing |
-| zhaochen | zhaochen | storage-manager | implementing |
-
-## Notes
-- All 29 newest tasks above were verified against the Notion Task Status Table; none have an `implemented` entry, so they are marked `implementing`.
-- Previously completed tasks (e.g. yuxuan-dev's batch-processor & queue-manager) were already marked `implemented` in Notion.
+| Task | Implementor |
+|---|---|
+| activity-logger | lueyang-dev |
+| alert-system | yuzhen-dev |
+| asset-optimizer | yuxuan-dev |
+| backup-utility | xiaochen_dev |
+| batch-processor | yuxuan-dev |
+| blog-engine | gyy |
+| booking-system | junteng_dev |
+| image-processor | wenshuo-dev |
+| calendar-sync | junteng_dev |
+| canvas-automation | ruige |
+| invoice-generator | yuzhen-dev |
+| canvas-grade-automation | jl_dev |
+| chat-bot | lv |
+| load-balancer | zhaochen |
+| cms-builder | gyy |
+| contact-manager | junteng_dev |
+| monitoring-agent | xiaochen_dev |
+| content-manager | yuxuan-dev |
+| content-scheduler | gyy |
+| coupon-manager | fan-dev |
+| crm-system | lueyang-dev |
+| voice-processor | lv |
+| data-analytics | ruige |
+| video-trimmer | haoze |
+| data-validator | yuzhen-dev |
+| deal-manager | lueyang-dev |
+| translation-api | junxian_dev |
+| deployment-tool | xiaochen_dev |
+| email-campaign | lueyang-dev |
+| template-engine | zhaochen |
+| email-classification-system | jl_dev |
+| task-scheduler | yuxuan-dev |
+| error-tracker | xiaochen_dev |
+| subtitle-generator | haoze |
+| expense-tracker | ruige |
+| social-publisher | gyy |
+| feedback-collector | lv |
+| file-manager | ruige |
+| shipment-tracker | junteng_dev |
+| follow-up-reminder | lueyang-dev |
+| form-builder | yuzhen-dev |
+| sentiment-analyzer | lv |
+| security-scanner | xiaochen_dev |
+| search-engine | wenshuo-dev |
+| sales-pipeline | lueyang-dev |
+| reminder-service | junteng_dev |
